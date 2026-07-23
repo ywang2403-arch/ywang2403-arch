@@ -1,8 +1,7 @@
 <p align="center">
   <img src="assets/banner.png" width="100%" />
 </p>
-# Creating More Than Games.
-  Creating worlds that stay with people.
+Creating worlds that stay with people.
 ## 👋 你好，我是王宇晨！这里是我的空间✨
 
 🎮 **游戏策划｜叙事设计｜数字媒体创作者**
