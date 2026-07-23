@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.jpg" width="100%" />
+  <img src="Assets/banner.jpg" width="100%" />
 </p>
 Creating worlds that stay with people.
 ## 👋 你好，我是王宇晨！这里是我的空间✨
