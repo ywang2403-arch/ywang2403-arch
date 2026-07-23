@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Assets/banner.jpg" width="100%" />
+  <img src="https://raw.githubusercontent.com/ywang2403-arch/Assets/b0e8b780e6588701fd72fe3487b85679571fb2d4/banner.jpg" width="100%" />
 </p>
 Creating worlds that stay with people.
 ## 👋 你好，我是王宇晨！这里是我的空间✨
