@@ -40,6 +40,7 @@ Creating worlds that stay with people.
 
 项目涉及剧本创作、分镜设计、场景搭建、镜头规划、灯光调整、动画制作与最终渲染。
 
+---
 
 ### 👾 [BIMO](https://github.com/ywang2403-arch/BIMO)
 
@@ -48,6 +49,26 @@ Creating worlds that stay with people.
 玩家将操控外星人 BIMO 穿越城市、大气层与太空三个地图，通过跳跃、探索和收集身体部件，帮助角色重新回到自己的家园。
 
 我主要负责城市地图设计、核心玩法开发、部分追逐机制及游戏测试优化。
+
+---
+
+### 🧸 [Lost Bear](https://github.com/ywang2403-arch/Lost-Bear)
+
+> RPG Maker MV 实验性叙事游戏
+
+一款围绕"规训与玩家自由"主题设计的实验性 RPG。玩家将扮演一只迷路的小熊，在系统不断引导"正确道路"的过程中，通过探索隐藏路线逐步揭开故事真相，并重新思考游戏规则与玩家选择之间的关系。
+
+我独立负责游戏策划、剧情设计、地图制作、事件逻辑、NPC 对话及整体交互设计，并通过环境叙事与第四面墙设计，引导玩家主动质疑系统所给予的规则。
+
+---
+
+### 🏛️ [Creative Healing](https://github.com/ywang2403-arch/Creative-Healing)
+
+> Unity 线上 3D 数字展览
+
+King's College London 2024 Winter Festival 的线上数字展览项目，旨在打造兼具沉浸感与可访问性的虚拟观展体验，让不同背景的观众都能够轻松浏览数字艺术作品。
+
+我主要负责 3D 展厅搭建、交互流程设计及无障碍体验优化，设计并实现了文字导览、语音导览、自动导览等功能，并通过"打破第四面墙"的引导方式降低用户学习成本，提升整体观展体验。
 
 ---
 
@@ -61,8 +82,6 @@ Creating worlds that stay with people.
 
 ---
 
-
----
 
 ## 🛠 技能与工具
 
