@@ -226,7 +226,7 @@ BA Culture, Media and Creative Industries (文化，传媒与创意产业）
   - 游玩时长：2个月
   - 游戏进度：体验完整主要内容
   
- ## 模拟经营
+ ### 模拟经营
 - 集合啦！动物森友会（Switch）
   - 游玩时长：2年（活跃期日均游玩约 3 小时）
   - 游戏进度：长期经营岛屿并参与季节活动
@@ -271,6 +271,6 @@ BA Culture, Media and Creative Industries (文化，传媒与创意产业）
 
 ---
 
-> 感谢浏览我的 GitHub 作品集。
+> 感谢您浏览我的 GitHub 作品集。
 >
 > 祝您度过愉快的一天💗
