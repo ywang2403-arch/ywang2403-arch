@@ -92,6 +92,13 @@ King's College London 2024 Winter Festival 的线上数字展览项目，旨在�
 ![Twine](https://img.shields.io/badge/Twine-BA1F33?style=for-the-badge&logoColor=white)
 ![RPG Maker MV](https://img.shields.io/badge/RPG%20Maker%20MV-8B0000?style=for-the-badge)
 
+### AIGC 与智能创造工具
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![ElevenLabs](https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white)
+
 ### 三维与视觉设计
 
 ![Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
