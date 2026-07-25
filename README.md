@@ -20,7 +20,7 @@ Creating worlds that stay with people.
 
 ---
 
-## 🌟 代表项目
+## 🌟 代表项目 （2024——2026/从近到远时间顺序排列）
 
 ### 🌲 [SHE](https://github.com/ywang2403-arch/SHE-)
 
@@ -31,6 +31,15 @@ Creating worlds that stay with people.
 项目结合环境叙事、声音设计、目标系统与程序修辞，使玩家通过实际操作体验“遵守规则”与“反抗规则”所带来的不同结果。
 
 ---
+
+### 🎬 [Under the Thunder](https://github.com/ywang2403-arch/-Under-The-Thunder-)
+
+> Maya 低多边形三维动画短片
+
+一部通过非语言化视觉叙事讲述相遇、陪伴与情感连接的 Low Poly 风格动画短片。
+
+项目涉及剧本创作、分镜设计、场景搭建、镜头规划、灯光调整、动画制作与最终渲染。
+
 
 ### 👾 [BIMO](https://github.com/ywang2403-arch/BIMO)
 
@@ -52,13 +61,6 @@ Creating worlds that stay with people.
 
 ---
 
-### 🎬 [Under the Thunder](https://github.com/ywang2403-arch/-Under-The-Thunder-)
-
-> Maya 低多边形三维动画短片
-
-一部通过非语言化视觉叙事讲述相遇、陪伴与情感连接的 Low Poly 风格动画短片。
-
-项目涉及剧本创作、分镜设计、场景搭建、镜头规划、灯光调整、动画制作与最终渲染。
 
 ---
 
