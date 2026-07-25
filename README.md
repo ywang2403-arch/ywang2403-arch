@@ -95,6 +95,7 @@ King's College London 2024 Winter Festival 的线上数字展览项目，旨在�
 ### 三维与视觉设计
 
 ![Maya](https://img.shields.io/badge/Autodesk_Maya-37A5CC?style=for-the-badge&logo=autodeskmaya&logoColor=white)
+![CapCut](https://img.shields.io/badge/CapCut-000000?style=for-the-badge&logo=capcut&logoColor=white)
 
 ### 其他工具
 
@@ -104,7 +105,7 @@ King's College London 2024 Winter Festival 的线上数字展览项目，旨在�
 
 ---
 
-## 💡 我的设计理念
+## 💡 个人设计理念
 
 我所关注的不仅是“游戏是否好玩”，同时也在思考：
 
@@ -119,6 +120,15 @@ King's College London 2024 Winter Festival 的线上数字展览项目，旨在�
 ---
 
 ## 🌱 目前正在进行
+
+### 
+
+原创ARG微恐游戏
+
+正在继续完善一下内容：
+
+- 页面设计
+- 脚本
 
 ### SHE
 
