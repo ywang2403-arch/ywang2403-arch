@@ -22,6 +22,16 @@ Creating worlds that stay with people.
 
 ## 🌟 代表项目 （2024——2026/从近到远时间顺序排列）
 
+### 🔍 [请 找 到 她」
+
+> Web ARG 另类现实微恐解谜游戏
+
+是一款基于 NeoCities 开发的 Web ARG（网页另类现实游戏），结合论坛、日记与超链接叙事，引导玩家在现实互联网环境中调查一起失踪案件，并逐步发现自己也是故事的一部分。
+
+项目结合复古互联网美术风格、超链接探索、环境叙事（Environmental Storytelling）与碎片化文本设计，营造出真实互联网调查的沉浸式体验。
+
+---
+
 ### 🌲 [SHE](https://github.com/ywang2403-arch/SHE-)
 
 > Unity 3D 第三人称心理恐怖游戏
